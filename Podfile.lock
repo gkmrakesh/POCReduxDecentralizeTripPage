@@ -1,0 +1,19 @@
+PODS:
+  - SwiftLint (0.24.0)
+  - TripPage (0.0.1)
+
+DEPENDENCIES:
+  - SwiftLint (= 0.24.0)
+  - TripPage (from `./`)
+
+EXTERNAL SOURCES:
+  TripPage:
+    :path: ./
+
+SPEC CHECKSUMS:
+  SwiftLint: a014c92b4664e8b13f380f8640a51bb1733778ba
+  TripPage: f85fc0440cb18efc20933f5af27f221d7bba5ace
+
+PODFILE CHECKSUM: d93c4cac2d98cf3fb10cec0602d83b22840ce9df
+
+COCOAPODS: 1.4.0
